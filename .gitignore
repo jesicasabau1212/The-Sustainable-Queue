@@ -1,0 +1,10 @@
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.gdoc
+*.gsheet
+*.gslides
+results/final_emissions_report.csv
+results/test_run.csv
